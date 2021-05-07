@@ -1,0 +1,4 @@
+Account (){
+   double account_balance
+   double account_interest
+}

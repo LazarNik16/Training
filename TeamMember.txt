@@ -1,0 +1,6 @@
+TeamMember () {
+   string TMName;
+   string TMLastName;
+   string TMDOB;
+   int emp_id;
+}
